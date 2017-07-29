@@ -3,3 +3,6 @@ This is a compilation of my notes and scripts as I go through different python l
 
 ## [GeoSpatial](https://github.com/andersy005/all-python-docs/tree/master/Geospatial)
 - [GeoPandas](https://github.com/andersy005/all-python-docs/tree/master/Geospatial/GeoPandas)
+
+## [Scientific](https://github.com/andersy005/all-python-docs/tree/master/Scientific)
+- [xarray](https://github.com/andersy005/all-python-docs/tree/master/Scientific/xarray)
