@@ -36,3 +36,7 @@
   * `data_vars`: dict-like container of `DataArrays` corresponding to data variables,
   * `coords`: dictionary-like container of `DataArrays` intended to label points used in data_vars
   * `attrs`: ordered dictionary holding metadata
+  
+# Notebooks
+
+- [Plotting](https://nbviewer.jupyter.org/github/andersy005/all-python-docs/blob/master/Scientific/xarray/04-plotting.ipynb)
