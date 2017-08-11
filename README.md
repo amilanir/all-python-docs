@@ -6,6 +6,7 @@ This is a compilation of my notes and scripts as I go through different python l
 
 ## [Scientific](https://github.com/andersy005/all-python-docs/tree/master/Scientific)
 - [xarray](https://github.com/andersy005/all-python-docs/tree/master/Scientific/xarray)
+- [sciPy]((https://github.com/andersy005/all-python-docs/tree/master/Scientific/sciPy))
 
 ## [Concurrency and Parallelism](https://github.com/andersy005/all-python-docs/tree/master/Concurrency-and-Parallelism)
 - [Dask](https://github.com/andersy005/all-python-docs/tree/master/Concurrency-and-Parallelism/dask)
